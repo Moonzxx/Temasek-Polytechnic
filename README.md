@@ -3,11 +3,11 @@ All projects completed in Temasek Polytechnic
 
 ## Y1S1
 
-Course No. | Course Name. | Description
+| Course No. | Course Name. | Description |
 
---- | --- | ---
+| --- | :---: | ---: |
 
-'CCS1001' | Effective Interpersonal Communication |  Practice Communication
+| 'CCS1001' | Effective Interpersonal Communication |  Practice Communication |
 
 'CIC1C05' | Computer Architecture |  Computer Parts
 
@@ -22,6 +22,14 @@ Course No. | Course Name. | Description
 'CMA1C01' | Computing Mathematics 1 |  Practice Communication
 
 'LEA1001' | Leadership: Essential Attributes & Practice 1 | Leadership skills  
+
+```gfm
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+```
 
 
 
