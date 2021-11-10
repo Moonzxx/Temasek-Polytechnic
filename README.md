@@ -25,7 +25,7 @@ All projects completed in Temasek Polytechnic
 
 'LEA1001' | Leadership: Essential Attributes & Practice 1 | Leadership skills  
 
-```markdown
+```gfm
 | Column 1 Header | Column 2 Header | Column 3 Header |
 | --- | --- | --- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
@@ -35,7 +35,7 @@ All projects completed in Temasek Polytechnic
 
 
 
-```markdown
+```gfm
 | type|name |description |
 |----|---|---|
 | *address* | _user | address of certificate owner |
