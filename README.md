@@ -3,6 +3,8 @@ All projects completed in Temasek Polytechnic
 
 ## Y1S1
 
+
+
 | Course No. | Course Name. | Description |
 
 | --- | :---: | ---: |
@@ -23,15 +25,22 @@ All projects completed in Temasek Polytechnic
 
 'LEA1001' | Leadership: Essential Attributes & Practice 1 | Leadership skills  
 
-```gfm
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+```markdown
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --- | --- | --- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 ```
 
 
+
+```markdown
+| type|name |description |
+|----|---|---|
+| *address* | _user | address of certificate owner |
+| *bytes32* | _hash | sha256 hash of the certificate text |
+```
 
 
 
